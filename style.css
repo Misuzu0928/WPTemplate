@@ -1,0 +1,189 @@
+/*
+Theme Name:sample
+Theme URI:#
+Description:卒業研究
+Author:Misuzu
+AUthor URI:#
+Version:1.0
+*/
+
+html{
+	height:100%
+}
+
+body{
+	font-size:80%;
+	background-color:#FFFFFF;
+	color:#333333;
+	font-family:"Times New Roman";
+	height:100%;
+	line-height:150%;
+}
+
+
+input{
+	background-color:#ffffff;
+	border-style:solid;
+	border-color:#000000;
+	border-width:1px;
+}
+
+input.button{
+	padding:5px 10px;
+}
+
+input.button:hover{
+	background-color:#666666;
+	color:#ffffff;
+}
+
+table{
+	width:80%;
+	font-size:100%;
+}
+
+table.com{
+	width:100%;
+	font-size:100%;
+}
+
+hr{
+    border:none;
+    border-top:dashed 1px #999999;
+    height:1px;
+    color:#FFFFFF;
+    margin: 0 6 0 6;
+}
+
+#content{
+	margin:3%;
+	float:left;
+	width:70%;
+	overflow:hidden;
+}
+
+#border{
+	width:75%;
+	height:auto;
+	padding:3%;
+	border-style:solid;
+	border-width:medium;
+	border-color:#000000;
+	border-width:1px;
+}
+
+#border2{
+	width:60%;
+	height:auto;
+	padding:3%;
+	border-style:solid;
+	border-width:medium;
+	border-color:#000000;
+	border-width:1px;
+}
+
+#hensin{
+	margin-left:30px;
+}
+
+#sidebar{
+	float:right;
+	padding:0px;
+	width:20%;
+	line-height:170%;
+	letter-spacing:0.1em;
+}
+
+#footer{
+	clear:both;
+}
+
+
+h1{
+	padding:0 0 20px 0;
+}
+
+p.blog{
+	font-size:90%;
+	color:#666666;
+	letter-spacing:0.1em;
+}
+
+div.border2 a{
+	border-bottom:1px solid;
+}
+
+#blog a{
+	border-bottom:1px solid;
+}
+
+#blog a:hover{
+	border-bottom:0px solid;
+}
+
+#content a{
+	border-bottom:1px solid;
+}
+
+#content a:hover{
+	border-bottom:0px solid;
+}
+
+#header a{
+	border-bottom:5px double;
+}
+
+#header a:hover{
+	border-bottom:0px double;
+}
+
+#sidebar a{
+	border-bottom:2px dotted;
+}
+
+#sidebar a:hover{
+	border-bottom:0px dotted;
+}
+
+#footer a{
+	border-bottom:1px solid;
+}
+
+#footer a:hover{
+	border-bottom:0px solid;
+}
+
+html,body{
+	scrollbar-arrow-color:#999999;
+	scrollbar-face-color:#cccccc;
+	scrollbar-highlight-color:#FFFFFF;
+	scrollbar-shadow-color :#FFFFFF;
+	scrollbar-3dlight-color:#FFFFFF;
+	scrollbar-darkshadow-color:#FFFFFF;
+	scrollbar-track-color:#FFFFFF;
+}
+
+
+a img {
+    margin: 0px 0px -6px 0px;
+}
+
+a{ 
+	text-decoration:none;
+}
+
+a:link{
+	color:#333333;
+}
+
+a:visited{
+	color:#666666;
+}
+
+a:hover{
+	color:#999999;
+}
+
+a:active{
+   color:#999999;
+}
